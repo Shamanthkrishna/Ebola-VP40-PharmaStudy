@@ -1,0 +1,48 @@
+14:36 22-08-2022
+
+Protein	VP40
+Ligand 	Acacia caven --> 10
+
+What to do?
+	Get the model from PDB or perform homolgy modelling
+	From Ligands get phytocompounds
+	Parmacological
+	ADME 5 tables
+
+14:37 22-08-2022 START
+	
+	Collect 10 Phytochemical from Acacia caven
+	Go to IMPPAT,search Acacia caven, copy paste 10 phytochemicals
+	Go to pubchem,search each compounds and get PUBCHEM ID & Canonical Smiles and paste it to the excel file
+	
+14:52 22-08-2022 END
+
+
+
+15:04 22-08-2022 START
+	
+	Open SWISSADME,ChemAGG, ADMETLAB & Protox
+	Enter the list of canoncial smiles, if a list then list or one by one or a sdf file which can be done using OpenBable
+	Download all the csv files of the obtained info
+	paste the details in respective tab of the excel file
+	
+15:27 22-08-2022 END
+	
+
+15:40 22-08-2022 START
+
+	Homology Modelling of VP40
+	Get the protein sequnces for VP40 [Zaire ebolavirus] from ncbi
+	Paste in SwissModel website and Download the best model in PDB format
+	
+15:48 22-08-2022 END
+
+
+
+15:52 22-08-2022 START
+
+	Purify the Homology Model of VP40 in Biovia
+	Save it in PDB format
+	Purify --> Remove everything from the model except A and Protein groups, add Polar groups.
+
+515:54 22-08-2022 END
