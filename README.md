@@ -1,6 +1,6 @@
 # Computational Research Using Phytochemicals from the Acacia Caven Plant to Combat the VP40-Functionalized Ebola Virus Illness
 
-**Published Paper:** [Link to Published Paper]([https://example.com/your-paper-url](https://journals.innovareacademics.in/index.php/ijms/article/view/46620))
+**Published Paper:** [Link to Published Paper](https://journals.innovareacademics.in/index.php/ijms/article/view/46620)
 
 ## Overview
 This project aims to explore the potential of phytochemicals from the Acacia caven plant as therapeutic agents against the VP40 protein of the Ebola virus. The study involves several key steps:
