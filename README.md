@@ -1,5 +1,7 @@
 # Computational Research Using Phytochemicals from the Acacia Caven Plant to Combat the VP40-Functionalized Ebola Virus Illness
 
+**Published Paper:** [Link to Published Paper]([https://example.com/your-paper-url](https://journals.innovareacademics.in/index.php/ijms/article/view/46620))
+
 ## Overview
 This project aims to explore the potential of phytochemicals from the Acacia caven plant as therapeutic agents against the VP40 protein of the Ebola virus. The study involves several key steps:
 
@@ -7,6 +9,8 @@ This project aims to explore the potential of phytochemicals from the Acacia cav
 2. ADME and Toxicity Analysis: Evaluating the pharmacological properties of the phytochemicals using various computational tools.
 3. Homology Modeling: Modeling the VP40 protein structure using homology modeling techniques.
 4. Protein-Ligand Docking: Performing molecular docking to predict the binding affinity of phytochemicals with the VP40 protein.
+
+
 
 ## Data Used
 Phytochemicals: Data on phytochemicals was collected from the IMPPAT database and PubChem.
@@ -90,16 +94,16 @@ Performed docking using PyRx, analyzed binding affinities, and visualized intera
 ### Individual Files
 
 - **`admetlab2.0.csv`**  
-  Likely contains data related to ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) properties of compounds.
+  Contains data related to ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) properties of compounds.
 
 - **`Boiled Egg.png`**  
-  Image likely related to a visual representation or figure in the project.
+  Image related to a visual representation or figure in the project.
 
 - **`chemagg.csv`**  
-  Possibly contains data related to chemical aggregation or similar analysis.
+  Contains data related to chemical aggregation or similar analysis.
 
 - **`CSSDF.sdf`**  
-  An SDF file, possibly containing chemical structure data.
+  An SDF file, containing chemical structure data.
 
 - **`Project_Observation.txt`**  
   Text file with observations or notes about the project.
